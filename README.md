@@ -1,4 +1,4 @@
-# 💼 UK Bank Customer Insights Dashboard – Power BI Project
+![Screenshot 2025-04-20 083718](https://github.com/user-attachments/assets/ebc1f1d2-9d9f-4d91-adc4-8fa0e1466f4b)# 💼 UK Bank Customer Insights Dashboard – Power BI Project
 
 ![Dashboard Preview]![Screenshot 2025-04-20 082308](https://github.com/user-attachments/assets/7d2804e2-c596-4e4b-b6ee-f5932ecae8d3)
 
@@ -43,7 +43,7 @@
 ### 🎚 Slicers in Action
 
 🌍 Region Slicer
-Filters the entire dashboard based on customer regions like North, South, East, and West.
+Filters the entire dashboard based on customer regions like England, Wales,Scotland, and Northern Ireland.
 ![Slicer Interaction]![Screenshot 2025-04-20 083718](https://github.com/user-attachments/assets/91a9b9fe-53d7-4ce7-91f4-6ca3e2a0da7e)
 
 
@@ -53,7 +53,7 @@ Zoom into individual customer data to see their specific balances and attributes
 
 
 🚻 Gender Slicer
-Compare trends between male and female customers and how gender affects balance, job roles, and more.
+Compare trends between male and female customers and how gender affects balance and more.
 ![Slicer Interaction]![Screenshot 2025-04-20 083219](https://github.com/user-attachments/assets/f5599178-b143-4f1d-8135-d0188ae30aa2)
 
 ---
