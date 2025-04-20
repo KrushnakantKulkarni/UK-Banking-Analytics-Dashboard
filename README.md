@@ -1,6 +1,6 @@
 # 💼 UK Bank Customer Insights Dashboard – Power BI Project
 
-![Dashboard Preview](images/dashboard-preview.png)
+![Dashboard Preview]![Screenshot 2025-04-20 082308](https://github.com/user-attachments/assets/7d2804e2-c596-4e4b-b6ee-f5932ecae8d3)
 
 > 📊 An interactive Power BI dashboard built to analyze and visualize customer data from a UK-based bank. This project highlights how slicing through demographics and financial data can lead to powerful business insights.
 
