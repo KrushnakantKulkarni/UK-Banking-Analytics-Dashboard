@@ -55,7 +55,7 @@ Zoom into individual customer data to see their specific balances and attributes
 Compare trends between male and female customers and how gender affects balance and more.
 ![Slicer Interaction]![Screenshot 2025-04-20 083219](https://github.com/user-attachments/assets/f5599178-b143-4f1d-8135-d0188ae30aa2)
 
----
+```
 
 ## 📁 Dataset Summary
 
@@ -71,7 +71,7 @@ Compare trends between male and female customers and how gender affects balance 
 | `Balance`          | Bank balance of the customer (GBP)            |
 | `DateOfJoin`       | Date when customer joined the bank            |
 
----
+```
 
 ## 📦 Tools & Technologies
 
@@ -103,7 +103,7 @@ Compare trends between male and female customers and how gender affects balance 
 ## 🤝 Credits
 
 - Dataset: Self-created based on UK customer data structure
-- Dashboard Design & Logic: [Your Name]
+- Dashboard Design & Logic: [Krushnakant Kulkarni]
 
 ---
 
